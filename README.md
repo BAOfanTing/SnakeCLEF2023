@@ -2,9 +2,9 @@
 This is a solution of snakeCLEF2023. Our approach achieved 88.30% on the private-score-track1 and 46.71% on the private-score, securing the third position.
 
 ## Train
-All details of the training process can be found in snake-Train-Test.ipy.nb
+All details of the training process can be found in snake-Train-Test.ipynb
 ```
-main/snake-Train-Test.ipy.nb
+main/snake-Train-Test.ipynb
 ```
 ## Test
 You can find all the details about Test in this github.
